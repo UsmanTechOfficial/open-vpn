@@ -1,6 +1,6 @@
 # Open Source VPN App
 
-<img src="https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/appIcon/vpnlogo.png" alt="Open Source VPN" width="300" />
+<img src="https://github.com/muhammadusmantech/open-vpn/blob/main/assets/launcher/ic_launcher.png" alt="Open Source VPN" width="300" />
 
 ## Overview
 
