@@ -18,7 +18,8 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'OpenVpn Demo',
+      debugShowCheckedModeBanner: false,
+      title: 'OpenVpn',
       home: HomeScreen(),
     );
   }
