@@ -6,9 +6,6 @@
 
 **Open Source VPN** is a comprehensive app designed to provide a secure, fast, and unlimited VPN connection. This open-source app ensures privacy and unrestricted internet access for all users.
 
-<a href="https://play.google.com/store/apps/details?id=com.opensourcevpn.app">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Download on Google Play" width="200"/>
-</a>
 
 ## Features
 
