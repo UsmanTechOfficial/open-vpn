@@ -22,10 +22,9 @@
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/screenshot/Screenshot%202024-07-04%20004646.png)
-![Screenshot 2](https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/screenshot/Screenshot%202024-07-04%20004632.png)
-![Screenshot 3](https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/screenshot/Screenshot%202024-07-04%20004622.png)
-![Screenshot 4](https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/screenshot/Screenshot%202024-07-04%20005023.png)
+![Screenshot 1](https://github.com/muhammadusmantech/open-vpn/blob/main/assets/screenshot/Screenshot_20240705-011927.png)
+![Screenshot 2](https://github.com/muhammadusmantech/open-vpn/blob/main/assets/screenshot/Screenshot_20240705-011932.png)
+![Screenshot 3](https://github.com/muhammadusmantech/open-vpn/blob/main/assets/screenshot/Screenshot_20240705-011936.png)
 
 ## Installation
 
