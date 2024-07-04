@@ -22,9 +22,10 @@
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/muhammadusmantech/open-vpn/blob/main/assets/screenshot/Screenshot_20240705-011927.png)
-![Screenshot 2](https://github.com/muhammadusmantech/open-vpn/blob/main/assets/screenshot/Screenshot_20240705-011932.png)
-![Screenshot 3](https://github.com/muhammadusmantech/open-vpn/blob/main/assets/screenshot/Screenshot_20240705-011936.png)
+<img src="https://github.com/muhammadusmantech/open-vpn/blob/main/assets/screenshot/Screenshot_20240705-011927.png" alt="Screenshot 1" width="200"/>
+<img src="https://github.com/muhammadusmantech/open-vpn/blob/main/assets/screenshot/Screenshot_20240705-011932.png" alt="Screenshot 2" width="200"/>
+<img src="https://github.com/muhammadusmantech/open-vpn/blob/main/assets/screenshot/Screenshot_20240705-011936.png" alt="Screenshot 3" width="200"/>
+
 
 ## Installation
 
