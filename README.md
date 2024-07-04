@@ -1,16 +1,73 @@
-# vpnfinal
+# Open Source VPN App
 
-A new Flutter project.
+<img src="https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/appIcon/vpnlogo.png" alt="Open Source VPN" width="300" />
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+**Open Source VPN** is a comprehensive app designed to provide a secure, fast, and unlimited VPN connection. This open-source app ensures privacy and unrestricted internet access for all users.
 
-A few resources to get you started if this is your first Flutter project:
+<a href="https://play.google.com/store/apps/details?id=com.opensourcevpn.app">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Download on Google Play" width="200"/>
+</a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Unlimited Connection Time:** Enjoy free and unlimited VPN usage without any time restrictions.
+- **Fast Connectivity:** Experience fast and reliable VPN connections to ensure smooth browsing and streaming.
+- **Open Source:** Fully open-source project, allowing transparency and community contributions.
+
+## Frameworks and Technologies
+
+- **Framework:** Flutter
+- **Language:** Dart
+- **Backend:** OpenVPN
+- **Encryption:** AES-256
+
+## Screenshots
+
+![Screenshot 1](https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/screenshot/Screenshot%202024-07-04%20004646.png)
+![Screenshot 2](https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/screenshot/Screenshot%202024-07-04%20004632.png)
+![Screenshot 3](https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/screenshot/Screenshot%202024-07-04%20004622.png)
+![Screenshot 4](https://github.com/muhammadusmantech/OpenSourceVPN/blob/main/assets/screenshot/Screenshot%202024-07-04%20005023.png)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/muhammadusmantech/OpenSourceVPN.git
+    cd OpenSourceVPN
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the app:**
+
+    ```bash
+    flutter run
+    ```
+
+## Usage
+
+Once the app is installed, you can:
+
+- **Connect to VPN:** Establish a secure and fast VPN connection.
+- **Monitor Connection:** View connection status and logs.
+- **Customize Settings:** Adjust settings for your VPN usage.
+
+## Project Structure
+
+- `lib/main.dart`: Entry point of the application.
+- `lib/screens/`: Contains the various screens of the app.
+- `lib/widgets/`: Contains reusable widgets.
+- `lib/models/`: Contains data models.
+
+---
+
+**Open Source VPN** © 2023. All rights reserved.
